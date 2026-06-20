@@ -49,7 +49,7 @@ h3{font-size:1.15rem;margin:2rem 0 .7rem}
 .role{font-size:1.15rem;color:var(--muted);margin:.1rem 0 1.2rem}
 
 .about-grid{display:flex;gap:2rem;align-items:flex-start}
-.headshot{width:170px;height:auto;border-radius:14px;flex:0 0 auto;box-shadow:0 6px 24px rgba(0,0,0,.10)}
+.headshot{width:170px;height:170px;object-fit:cover;object-position:20% 35%;border-radius:50%;flex:0 0 auto;box-shadow:0 6px 24px rgba(0,0,0,.10)}
 .about-body{min-width:0}
 
 .contact{list-style:none;margin:1.2rem 0;padding:0;font-size:.98rem}
